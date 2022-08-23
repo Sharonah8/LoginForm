@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    width: 500px;
+    margin: 0 auto;
+    border: 1px solid skyblue;
+    padding: 60px;
+}
